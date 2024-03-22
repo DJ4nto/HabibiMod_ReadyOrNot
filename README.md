@@ -5,4 +5,6 @@ mod for Ready or not. Add an AK 47 and change voice lines
 
 -> Extract the file named HabibiMod.zip you downloaded from the github realese tab
 
--> Paste the content of the file in : D:\...\SteamLibrary\steamapps\common\Ready Or Not\ReadyOrNot\...
+-> Paste the content of the file in : D:\...\SteamLibrary\steamapps\common\Ready Or Not\ReadyOrNot\
+
+-> Click "Replace files at destination" and have fun
